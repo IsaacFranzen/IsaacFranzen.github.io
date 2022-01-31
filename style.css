@@ -1,0 +1,50 @@
+h1{
+    font-family: monospace;
+    color: black;
+    text-align: center;
+    border: 5px black solid;
+    background-color: white;
+    width: 550px;
+}
+h2{
+    text-align: center;
+    color: black;
+    margin-left: 34px;
+    
+}
+body{
+    background-image: url("trybeback2.png");
+   
+}
+.imagem{
+    width: 250px;
+    border: 5px solid black;
+ 
+}
+#desc{
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    line-height: 25px;
+    font-size: 25px;
+    color: black;
+
+}
+.logo{
+    position: absolute;
+    width: 90px;
+    left:700px ;
+    top: 110px;
+    border: 5px solid black;
+    
+}
+li{
+    color: white;
+    margin-inline-end: 500px;
+    margin-inline-start: 500px;
+    background-color: rgb(1, 65, 1);
+    text-align-last: center;
+    border: 2px solid black;
+    
+    
+}
